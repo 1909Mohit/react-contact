@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Tom",
+      "address": "London",
+      "email": "tom@gmail.com",
+      "contact": "49646",
+      "id": 1
+    },
+    {
+      "name": "Driba",
+      "email": "Smoothy@gmail.com",
+      "contact": "984961565",
+      "address": "Galvan Prime",
+      "id": 2
+    },
+    {
+      "name": "Mohit Kumar",
+      "email": "mohit1909.mk@gmail.com",
+      "contact": "8979866515",
+      "address": "Muzaffarnagar",
+      "id": 3
+    },
+    {
+      "name": "Rohit Kumar",
+      "email": "Rohit@gmail.com",
+      "contact": "9012233986",
+      "address": "Muzaffarnagar",
+      "id": 5
+    },
+    {
+      "name": "Blukic",
+      "email": "Smoothy@gmail.com",
+      "contact": "spaceShips",
+      "address": "Galvan Prime",
+      "id": 6
+    },
+    {
+      "name": "Mohit Kumar",
+      "email": "195577@nith.ac.in",
+      "contact": "9",
+      "address": "Galvan Prime",
+      "id": 7
+    }
+  ]
+}
